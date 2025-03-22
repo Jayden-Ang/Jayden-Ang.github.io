@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,10 +21,9 @@
             font-size: 24px;
             font-weight: bold;
             width: 100%;
-            text-align: center;
         }
         .hero {
-            background-image: url('soy_milk_banner_16_9.jpg');
+            background-image: url('images/soy_milk_banner_16_9.jpg'); /* Ensure image is in /images/ */
             background-size: cover;
             background-position: center;
             color: white;
@@ -38,7 +37,6 @@
         }
         .container {
             display: flex;
-            flex-direction: row;
             flex-wrap: wrap;
             justify-content: center;
             width: 90%;
@@ -58,7 +56,6 @@
             padding: 10px;
             margin-top: 20px;
             width: 100%;
-            text-align: center;
         }
     </style>
 </head>
@@ -82,3 +79,4 @@
     <footer>Contact us at: jayden@soymilk.com</footer>
 </body>
 </html>
+
