@@ -39,6 +39,7 @@
       max-width: 100%;
       height: auto;
       border-radius: 10px;
+      margin-top: 1rem;
     }
   </style>
 </head>
@@ -74,13 +75,21 @@
     <section id="gallery">
       <h2>Gallery</h2>
       <p>Click on the images to view them in full size:</p>
-      <a href="https://example.com/image1.jpg" target="_blank">
-        <img src="https://example.com/image1.jpg" alt="Fresh Soymilk Bottle" />
+
+      <!-- Soymilk in a glass -->
+      <a href="https://www.epicurious.com/recipes/food/views/homemade-soy-milk-andrea-nguyen" target="_blank">
+        <img src="https://assets.epicurious.com/photos/5fd8c4c4e7c5b8c9e1b0d3e5/16:9/w_2560%2Cc_limit/Homemade-Soy-Milk-Recipe-BA-121820.jpg" alt="Fresh Soymilk in Glass" />
       </a>
-      <a href="https://example.com/image2.jpg" target="_blank">
-        <img src="https://example.com/image2.jpg" alt="Soymilk Stand Stall" />
+
+      <!-- Soymilk with soybeans -->
+      <a href="https://www.veganfoodandliving.com/vegan-diet/soy-milk-health-benefits-is-it-good-for-you/" target="_blank">
+        <img src="https://www.veganfoodandliving.com/wp-content/uploads/2020/04/Soymilk-and-soybeans-768x512.jpg" alt="Soymilk and Soybeans" />
       </a>
-      <!-- Replace the above URLs with your own image links -->
+
+      <!-- Close-up of soybeans -->
+      <a href="https://www.scoular.com/grains/soybeans/" target="_blank">
+        <img src="https://www.scoular.com/wp-content/uploads/2022/03/soybeans-scaled.jpg" alt="Close-up of Soybeans" />
+      </a>
     </section>
 
     <section id="contact">
